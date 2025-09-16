@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2117-find-original-array-from-doubled-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2117-find-original-array-from-doubled-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2887-sort-vowels-in-a-string) |
 ## String
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
