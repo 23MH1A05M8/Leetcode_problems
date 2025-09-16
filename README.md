@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0344-reverse-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3462-vowels-game-in-a-string) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
