@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2117-find-original-array-from-doubled-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -54,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0344-reverse-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2887-sort-vowels-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
