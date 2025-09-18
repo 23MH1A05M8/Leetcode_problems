@@ -7,20 +7,18 @@ class Solution {
             map.put(nums[i],map.getOrDefault(nums[i],0)+1);
             }
         }
-       
-        if(map.isEmpty()) 
-       {
-         return -1;
-       }
-        int max=0,res=-1;
+        int max=0;
+        for(int i:map.values())
+        {
+            max=Math.max(max,i);
+        }
         for(Map.Entry<Integer,Integer> i:map.entrySet())
         {
-            if(i.getValue()>max)
+            if(i.getValue()==max)
             {
-                max=i.getValue();
-                res=i.getKey();
+                return i.getKey();
             }
         }
-        return res;
+        return -1;
     }
 }
