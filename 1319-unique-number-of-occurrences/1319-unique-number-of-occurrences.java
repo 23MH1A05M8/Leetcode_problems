@@ -5,18 +5,15 @@ class Solution {
         {
             map.put(i,map.getOrDefault(i,0)+1);
         } 
-        HashMap<Integer,Integer> map2=new HashMap<>();
-        for(Map.Entry<Integer,Integer> i:map.entrySet())
+        HashSet<Integer> set=new HashSet<>();
+        for(int i:map.values())
         {
-            map2.put(i.getValue(),map2.getOrDefault(i.getValue(),0)+1);
+            set.add(i);
         }
-        for(Map.Entry<Integer,Integer> i:map2.entrySet())
+        if(set.size()==map.size())
         {
-            if(i.getValue()>1)
-            {
-                return false;
-            }
+            return true;
         }
-        return true;
+        return false;
     }
 }
