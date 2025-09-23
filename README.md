@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0344-reverse-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
