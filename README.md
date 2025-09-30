@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0367-valid-perfect-square) |
+| [1013-fibonacci-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3462-vowels-game-in-a-string) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -180,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
