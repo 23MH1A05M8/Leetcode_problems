@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2401-count-asterisks](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2401-count-asterisks) |
 | [2887-sort-vowels-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
