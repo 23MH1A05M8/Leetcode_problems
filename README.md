@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1651-shuffle-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1651-shuffle-string) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
