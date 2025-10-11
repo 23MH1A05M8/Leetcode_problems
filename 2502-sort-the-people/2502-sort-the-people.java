@@ -1,6 +1,6 @@
 class Solution {
     public String[] sortPeople(String[] names, int[] heights) {
-        TreeMap<Integer,String> map=new TreeMap<>();
+        TreeMap<Integer,String> map=new TreeMap<>(Collections.reverseOrder());
         int n=heights.length;
        String[] res=new String[n];
        for(int i=0;i<heights.length;i++)
@@ -12,12 +12,13 @@ class Solution {
         {
            res[index++]=s;
         }
-         String[] result=new String[n];
-         int ind=0;
-        for(int i=res.length-1;i>=0;i--)
-        {
-            result[ind++]=res[i];
-        }
-        return result;
+        //  String[] result=new String[n];
+        //  int ind=0;
+        // for(int i=res.length-1;i>=0;i--)
+        // {
+        //     result[ind++]=res[i];
+        // }
+        // Arrays.sort(res,Collections.reverseOrder());
+        return res;
     }
 }
