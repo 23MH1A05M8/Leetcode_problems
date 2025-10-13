@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4008-restore-finishing-order](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/4008-restore-finishing-order) |
 ## Hash Table
