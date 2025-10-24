@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2634-minimum-common-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2825-minimize-string-length](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2727-number-of-senior-citizens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2825-minimize-string-length](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
