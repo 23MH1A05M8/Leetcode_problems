@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2401-count-asterisks](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2401-count-asterisks) |
+| [2470-removing-stars-from-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2727-number-of-senior-citizens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2470-removing-stars-from-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2470-removing-stars-from-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2886-faulty-keyboard) |
 ## Stack
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
