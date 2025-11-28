@@ -282,5 +282,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1789-primary-department-for-each-employee](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1789-primary-department-for-each-employee) |
 | [1890-the-latest-login-in-2020](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
