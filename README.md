@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0169-majority-element) |
+| [1603-design-parking-system](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1603-design-parking-system) |
 | [1635-number-of-good-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0043-multiply-strings) |
+| [1603-design-parking-system](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1789-primary-department-for-each-employee](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1789-primary-department-for-each-employee) |
 | [1890-the-latest-login-in-2020](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1890-the-latest-login-in-2020) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
