@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0792-binary-search) |
+| [0885-spiral-matrix-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0885-spiral-matrix-iii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1319-unique-number-of-occurrences](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0885-spiral-matrix-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0885-spiral-matrix-iii) |
 | [1603-design-parking-system](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
