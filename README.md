@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2486-most-frequent-even-element](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2502-sort-the-people) |
+| [2574-left-and-right-sum-differences](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2634-minimum-common-value) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -336,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
