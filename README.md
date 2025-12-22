@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1651-shuffle-string) |
+| [1732-find-the-highest-altitude](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [1944-truncate-sentence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1944-truncate-sentence) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
