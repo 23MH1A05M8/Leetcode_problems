@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 ## Segment Tree
 |  |
 | ------- |
