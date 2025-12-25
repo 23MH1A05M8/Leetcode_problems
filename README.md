@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3074-apple-redistribution-into-boxes](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3074-apple-redistribution-into-boxes](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
 |  |
 | ------- |
