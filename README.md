@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0066-plus-one) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0647-palindromic-substrings) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0202-happy-number) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -363,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
