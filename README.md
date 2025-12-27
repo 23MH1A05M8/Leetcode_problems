@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0885-spiral-matrix-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0885-spiral-matrix-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
