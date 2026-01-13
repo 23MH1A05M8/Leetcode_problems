@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1390-four-divisors) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0792-binary-search) |
 | [0885-spiral-matrix-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0885-spiral-matrix-iii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0954-maximum-sum-circular-subarray) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2117-find-original-array-from-doubled-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
