@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3462-vowels-game-in-a-string) |
 | [3492-maximum-containers-on-a-ship](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3492-maximum-containers-on-a-ship) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Array
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3745-maximize-expression-of-three-elements) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
 |  |
