@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3701-compute-alternating-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3701-compute-alternating-sum) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3745-maximize-expression-of-three-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3745-maximize-expression-of-three-elements) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Brainteaser
