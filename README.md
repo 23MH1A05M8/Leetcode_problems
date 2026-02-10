@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1013-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0885-spiral-matrix-iii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1319-unique-number-of-occurrences](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1390-four-divisors) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1635-number-of-good-pairs) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
