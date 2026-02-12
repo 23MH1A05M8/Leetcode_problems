@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3206-alternating-groups-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3206-alternating-groups-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3206-alternating-groups-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3206-alternating-groups-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Simulation
 |  |
