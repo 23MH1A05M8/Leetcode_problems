@@ -3,9 +3,9 @@ public:
     int longestConsecutive(vector<int>& nums) {
         int n=nums.size();
         if(n==0) return 0;
-        if(n==1) return 1;
+        // if(n==1) return 1;
         sort(nums.begin(),nums.end());
-        int maxi=INT_MIN;
+        int maxi=1;
         int c=1;
         for(int i=1;i<n;i++)
         {
