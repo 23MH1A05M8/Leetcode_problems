@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Counting Sort
