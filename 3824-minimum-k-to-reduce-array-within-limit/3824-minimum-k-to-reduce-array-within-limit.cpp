@@ -26,6 +26,6 @@ public:
                     l=k;
                 }
             }
-        return l+1;
+        return h;
     }
 };
