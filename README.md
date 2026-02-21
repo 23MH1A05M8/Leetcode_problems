@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4008-restore-finishing-order](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/4008-restore-finishing-order) |
 ## Hash Table
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3477-fruits-into-baskets-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Matrix
 |  |
 | ------- |
