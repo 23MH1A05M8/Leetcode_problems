@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Counting Sort
