@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1651-shuffle-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1651-shuffle-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1894-merge-strings-alternately](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1894-merge-strings-alternately) |
