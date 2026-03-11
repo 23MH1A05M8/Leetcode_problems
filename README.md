@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1651-shuffle-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1651-shuffle-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2000-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
