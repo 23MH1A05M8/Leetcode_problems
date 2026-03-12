@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1651-shuffle-string) |
 | [1652-defuse-the-bomb](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [1944-truncate-sentence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1944-truncate-sentence) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1646-kth-missing-positive-number) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2634-minimum-common-value) |
