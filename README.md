@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1925-count-square-sum-triples) |
+| [3546-equal-sum-grid-partition-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3745-maximize-expression-of-three-elements) |
 ## Linked List
 |  |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
 ## Monotonic Stack
 |  |
 | ------- |
