@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1859-sorting-the-sentence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1859-sorting-the-sentence) |
 | [2117-find-original-array-from-doubled-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1859-sorting-the-sentence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1894-merge-strings-alternately](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1944-truncate-sentence) |
