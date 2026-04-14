@@ -464,12 +464,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2000-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2470-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1013-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Segment Tree
 |  |
 | ------- |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2487-remove-nodes-from-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Trie
 |  |
 | ------- |
