@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1861-rotating-the-box](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1861-rotating-the-box) |
 | [1920-build-array-from-permutation](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [1944-truncate-sentence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1944-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
+| [1861-rotating-the-box](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1861-rotating-the-box) |
 | [1894-merge-strings-alternately](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1894-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2109-adding-spaces-to-a-string) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1861-rotating-the-box](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1861-rotating-the-box) |
 | [3546-equal-sum-grid-partition-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
 ## Heap (Priority Queue)
 |  |
