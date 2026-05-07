@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1448-maximum-69-number) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0877-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1013-fibonacci-number) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
