@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0877-stone-game) |
 | [0885-spiral-matrix-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0885-spiral-matrix-iii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1448-maximum-69-number) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2078-two-furthest-houses-with-different-colors) |
