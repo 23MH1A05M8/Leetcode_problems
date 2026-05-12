@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1603-design-parking-system](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1603-design-parking-system) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -449,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Number Theory
 |  |
@@ -589,4 +595,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
