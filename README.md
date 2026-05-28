@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2825-minimize-string-length](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-number-of-changing-keys](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3312-number-of-changing-keys) |
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3462-vowels-game-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
