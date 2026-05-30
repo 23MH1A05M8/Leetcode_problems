@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1861-rotating-the-box) |
 | [1894-merge-strings-alternately](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1894-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2000-reverse-prefix-of-word) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Segment Tree
