@@ -10,25 +10,25 @@
  */
 class Solution {
 public:
-    ListNode* reversenode(ListNode* head)
+    ListNode* reverse(ListNode* head)
     {
-        ListNode* prev = nullptr;
-        ListNode* curr = head;
-
-        while (curr != nullptr)
+        ListNode* prev=NULL;
+        ListNode* front;
+        ListNode* curr=head;
+        while(curr!=NULL)
         {
-            ListNode* next = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = next;
+            front=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=front;
         }
         return prev;
     }
     ListNode* removeNodes(ListNode* head) {
-       head=reversenode(head);
+       head=reverse(head);
        int maxval=head->val;
        ListNode* curr=head;
-       while(curr&&curr->next)
+       while(curr->next!=NULL)
        {
             if(curr->next->val<maxval)
             {
@@ -37,10 +37,9 @@ public:
             else{
                 curr=curr->next;
                 maxval=curr->val;
-
             }
        }
-       head=reversenode(head);
+       head=reverse(head);
        return head;
     }
 };
