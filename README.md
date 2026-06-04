@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3462-vowels-game-in-a-string) |
 | [3492-maximum-containers-on-a-ship](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3492-maximum-containers-on-a-ship) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3828-final-element-after-subarray-deletions](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3828-final-element-after-subarray-deletions) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0877-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1013-fibonacci-number) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1925-count-square-sum-triples) |
 | [3546-equal-sum-grid-partition-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3745-maximize-expression-of-three-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Linked List
 |  |
 | ------- |
