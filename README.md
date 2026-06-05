@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2652-sum-multiples) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3462-vowels-game-in-a-string) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3206-alternating-groups-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3206-alternating-groups-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2886-faulty-keyboard) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3701-compute-alternating-sum) |
