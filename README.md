@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0506-relative-ranks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2500-delete-greatest-value-in-each-row) |
