@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0792-binary-search) |
+| [0846-hand-of-straights](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+| [0846-hand-of-straights](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0846-hand-of-straights) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
+| [0846-hand-of-straights](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1448-maximum-69-number) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0846-hand-of-straights](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0846-hand-of-straights) |
 | [1122-relative-sort-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
