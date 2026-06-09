@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1528-shuffle-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1528-shuffle-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1651-shuffle-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1651-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1678-goal-parser-interpretation) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0657-robot-return-to-origin) |
 | [0885-spiral-matrix-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0885-spiral-matrix-iii) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1603-design-parking-system](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1603-design-parking-system) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1920-build-array-from-permutation) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
