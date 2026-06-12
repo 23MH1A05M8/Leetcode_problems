@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0135-candy) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
@@ -710,4 +712,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0973-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
