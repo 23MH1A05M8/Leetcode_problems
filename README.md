@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3828-final-element-after-subarray-deletions](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3828-final-element-after-subarray-deletions) |
+| [3838-weighted-word-mapping](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4008-restore-finishing-order](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/4008-restore-finishing-order) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Stack
 |  |
