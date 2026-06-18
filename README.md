@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0392-is-subsequence) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -776,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
