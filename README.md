@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3745-maximize-expression-of-three-elements) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Brainteaser
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0973-k-closest-points-to-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -688,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -704,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -822,4 +828,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
