@@ -775,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2236-root-equals-sum-of-children) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2236-root-equals-sum-of-children) |
@@ -838,4 +840,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
