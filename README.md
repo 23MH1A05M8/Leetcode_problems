@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-maximum-containers-on-a-ship](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3492-maximum-containers-on-a-ship) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3828-final-element-after-subarray-deletions](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3828-final-element-after-subarray-deletions) |
