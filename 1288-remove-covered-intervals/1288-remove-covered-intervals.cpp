@@ -17,6 +17,7 @@ public:
         if((intervals[i][0]>=st&&intervals[i][1]<=end))
         {
             end=max(end,intervals[i][1]);
+            // continue;
         }
         else{
             res.push_back({st,end});
