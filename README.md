@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1944-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2109-adding-spaces-to-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2117-find-original-array-from-doubled-array) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Counting Sort
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1925-count-square-sum-triples) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3546-equal-sum-grid-partition-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -777,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Tree
 |  |
 | ------- |
