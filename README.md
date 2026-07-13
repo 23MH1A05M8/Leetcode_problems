@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1651-shuffle-string) |
 | [1652-defuse-the-bomb](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1652-defuse-the-bomb) |
+| [1720-decode-xored-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1720-decode-xored-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
