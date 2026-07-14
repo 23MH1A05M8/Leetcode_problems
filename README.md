@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0231-power-of-two) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Queue
 |  |
