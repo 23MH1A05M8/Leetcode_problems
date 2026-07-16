@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3828-final-element-after-subarray-deletions](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3828-final-element-after-subarray-deletions) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Array
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3828-final-element-after-subarray-deletions](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3828-final-element-after-subarray-deletions) |
 | [3838-weighted-word-mapping](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4008-restore-finishing-order](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/4008-restore-finishing-order) |
 ## Hash Table
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3731-find-missing-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3745-maximize-expression-of-three-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-lexicographically-smallest-palindrome](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3794-reverse-string-prefix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -586,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
 |  |
@@ -630,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
