@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1288-remove-covered-intervals) |
 | [1319-unique-number-of-occurrences](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0885-spiral-matrix-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0885-spiral-matrix-iii) |
+| [1260-shift-2d-grid](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0657-robot-return-to-origin) |
 | [0885-spiral-matrix-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0885-spiral-matrix-iii) |
+| [1260-shift-2d-grid](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1603-design-parking-system](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1603-design-parking-system) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1823-find-the-winner-of-the-circular-game) |
