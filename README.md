@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3745-maximize-expression-of-three-elements) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3462-vowels-game-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3794-reverse-string-prefix) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
 | ------- |
