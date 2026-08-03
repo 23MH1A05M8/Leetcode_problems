@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0055-jump-game) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0078-subsets) |
@@ -930,4 +933,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
