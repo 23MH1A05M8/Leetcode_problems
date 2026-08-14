@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0542-01-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0885-spiral-matrix-iii) |
+| [1020-number-of-enclaves](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+| [1020-number-of-enclaves](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -878,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 | [1302-deepest-leaves-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -923,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0542-01-matrix) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 | [1302-deepest-leaves-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Merge Sort
