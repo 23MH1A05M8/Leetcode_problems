@@ -952,4 +952,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0022-generate-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
