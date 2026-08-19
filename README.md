@@ -795,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0785-is-graph-bipartite](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 ## Rolling Hash
 |  |
@@ -880,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 | [1302-deepest-leaves-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0542-01-matrix) |
+| [0785-is-graph-bipartite](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 | [1302-deepest-leaves-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
@@ -960,4 +963,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0877-stone-game) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
