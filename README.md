@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0877-stone-game) |
 | [0885-spiral-matrix-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0885-spiral-matrix-iii) |
+| [0896-monotonic-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0896-monotonic-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0973-k-closest-points-to-origin) |
