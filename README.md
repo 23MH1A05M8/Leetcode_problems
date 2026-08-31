@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1448-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
