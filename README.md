@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4008-restore-finishing-order](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/4008-restore-finishing-order) |
+| [4062-transform-array-using-pair-operations](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/4062-transform-array-using-pair-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2396-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3462-vowels-game-in-a-string) |
 | [3828-final-element-after-subarray-deletions](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3828-final-element-after-subarray-deletions) |
+| [4062-transform-array-using-pair-operations](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/4062-transform-array-using-pair-operations) |
 ## Game Theory
 |  |
 | ------- |
