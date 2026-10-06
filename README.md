@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0846-hand-of-straights](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1448-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0742-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -974,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Minimax
 |  |
 | ------- |
