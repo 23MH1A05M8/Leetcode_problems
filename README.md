@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2974-minimum-number-game) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2825-minimize-string-length](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
@@ -1017,4 +1020,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0075-sort-colors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
