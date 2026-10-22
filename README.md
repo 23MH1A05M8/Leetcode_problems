@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [4008-restore-finishing-order](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/4008-restore-finishing-order) |
 | [4062-transform-array-using-pair-operations](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/4062-transform-array-using-pair-operations) |
 ## Hash Table
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
