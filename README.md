@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1288-remove-covered-intervals) |
 | [1319-unique-number-of-occurrences](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0542-01-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0885-spiral-matrix-iii) |
 | [1020-number-of-enclaves](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0785-is-graph-bipartite](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -920,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -968,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/23MH1A05M8/Leetcode_problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Merge Sort
